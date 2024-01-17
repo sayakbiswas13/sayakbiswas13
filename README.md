@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/sayakbiswas13/sayakbiswas13/blob/main/Make%20your%20README.png)](https://sayak-portfolio.web.app/)
 <h1 align="center">Hi 👋, I'm Sayak Biswas</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 - 🔭 I’m currently working on [Staart Works(Go and download to manage your expenses smoothly)](https://play.google.com/store/apps/details?id=com.staartworks&hl=en&gl=US)
 
 - 👨‍💻 All of my projects are available at [https://sayak-portfolio.web.app/](https://sayak-portfolio.web.app/)
