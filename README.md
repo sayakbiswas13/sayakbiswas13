@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sayak Biswas</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQGTgM2hUxc9Hw/article-cover_image-shrink_600_2000/0/1586156712618?e=2147483647&v=beta&t=d2NPnJMWYGMhkaYljEDXJclWYgiAcfppnzarj4mWb9w">
-- 🔭 I’m currently working on [Staart Works(Go and download to manage your expenses smoothly)](https://play.google.com/store/apps/details?id=com.staartworks&hl=en&gl=US)
+- 🔭 I’m currently working on Staart Works (Go and download to manage your expenses smoothly) (https://play.google.com/store/apps/details?id=com.staartworks&hl=en&gl=US)
 
 - 👨‍💻 All of my projects are available at [https://sayak-portfolio.web.app/](https://sayak-portfolio.web.app/)
 
