@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQGTgM2hUxc9Hw/article-cover_image-shrink_600_2000/0/1586156712618?e=2147483647&v=beta&t=d2NPnJMWYGMhkaYljEDXJclWYgiAcfppnzarj4mWb9w">
 - 🔭 I’m currently working on Staart Works (Go and download to manage your expenses smoothly) (https://play.google.com/store/apps/details?id=com.staartworks&hl=en&gl=US)
 
-- 👨‍💻 All of my projects are available at [https://sayak-portfolio.web.app/](https://sayak-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://sayak-rdx-portfolio.netlify.app/](https://sayak-rdx-portfolio.netlify.app/)
 
 - 📫 How to reach me **sayakbiswas13@gmail.com**
 
-- 📄 Know about my experiences [https://sayak-portfolio.web.app/](https://sayak-portfolio.web.app/)
+- 📄 Know about my experiences [https://sayak-rdx-portfolio.netlify.app/about](https://sayak-rdx-portfolio.netlify.app/about)
 
 - ⚡ Fun fact **I am fearless explorer whose camera is always ready for action! Scaling mountains, diving into seas, and capturing the world's essence, their adventures are a thrilling blend of wanderlust and photography magic. 🌍📸**
 
