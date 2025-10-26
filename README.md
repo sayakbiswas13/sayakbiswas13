@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/sayakbiswas13/sayakbiswas13/blob/main/Make%20your%20README.png)](https://sayak-portfolio.web.app/)
+[![MasterHead](https://github.com/sayakbiswas13/sayakbiswas13/blob/main/Make%20your%20README.png)](https://sayak-rdx-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Sayak Biswas</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQGTgM2hUxc9Hw/article-cover_image-shrink_600_2000/0/1586156712618?e=2147483647&v=beta&t=d2NPnJMWYGMhkaYljEDXJclWYgiAcfppnzarj4mWb9w">
