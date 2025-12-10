@@ -1,104 +1,97 @@
 <div align="center">
-  
-# 👋 Hi, I'm Sayak Biswas
 
-### Full Stack Developer | Adventure Photographer | Fearless Explorer
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sayak%20Biswas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sayak.site-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sayak.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sayakbiswas13-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayakbiswas13)
-[![Twitter](https://img.shields.io/badge/Twitter-rdx__141-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rdx_141)
-[![Instagram](https://img.shields.io/badge/Instagram-_drunken.master__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_drunken.master_)
-[![Email](https://img.shields.io/badge/Email-sayakbiswas13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayakbiswas13@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Adventure+Photographer+%F0%9F%93%B8;Mountain+Climber+%E2%9B%B0%EF%B8%8F;Fearless+Explorer+%F0%9F%8C%8D)](https://git.io/typing-svg)
+
+<br/>
+
+### 🌟 Creating aesthetic, modern applications while exploring the world
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sayak.site-00C7B7?style=for-the-badge&labelColor=0D1117)](https://sayak.site)
+[![Email](https://img.shields.io/badge/📧_Email-sayakbiswas13@gmail.com-D14836?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=white)](mailto:sayakbiswas13@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/sayakbiswas13)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/rdx_141)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/_drunken.master_)
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
-const sayak = {
-location: "Hyderabad, India",
-currentProject: "Staart Works - Expense Management App",
-passions: ["Full Stack Development", "Mountain Climbing", "Photography", "Adventure Travel"],
-motto: "Creating aesthetic, modern applications while exploring the world 🌍📸"
-};
+## 🎯 Current Focus
 
 
-- 🔭 Currently building **[Staart Works](https://play.google.com/store/apps/details?id=com.staartworks&hl=en&gl=US)** - Your expense management companion
-- 🌐 Portfolio & Projects: **[sayak.site](https://sayak.site)**
-- 🎯 Specializing in creating modern, aesthetic, and user-friendly applications
-- ⛰️ When I'm not coding, I'm scaling mountains or capturing the world through my lens
+<div align="center">
 
----
+### 📱 Featured Project
 
-## 🛠️ Tech Stack
+**Staart Works** - Manage your expenses smoothly
 
-### Frontend
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
+[![Get it on Google Play](https://img.shields.io/badge/Download-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&labelColor=00C7B7)](https://play.google.com/store/apps/details?id=com.staartworks&hl=en&gl=US)
+
+</div>
+
+<br/>
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Mobile Development
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-%23FF61F6.svg?style=flat&logo=adobe-xd&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Other Skills
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white)
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayakbiswas13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayakbiswas13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayakbiswas13&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
----
-
-## 🎯 Featured Project
-
-### 📱 Staart Works
-An intuitive expense management application designed to help users track and manage their finances smoothly.
-
-**[Download on Google Play](https://play.google.com/store/apps/details?id=com.staartworks&hl=en&gl=US)**
+<br/>
 
 ---
 
 <div align="center">
-  
-### 💭 "Scaling mountains, diving into seas, capturing the world's essence—my adventures are a thrilling blend of wanderlust and code magic." 🌍📸
 
-![Profile Views](https://komarev.com/ghpvc/?username=sayakbiswas13&color=00C7B7&style=flat-square&label=Profile+Views)
+### 💭 Philosophy
+
+*"Scaling mountains, diving into seas, capturing the world's essence—<br/>my adventures are a thrilling blend of wanderlust and code magic."* 🌍✨
+
+<br/>
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
