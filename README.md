@@ -33,9 +33,6 @@ I build modern web and mobile products that are elegant on the surface and solid
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://pdfmaker141.netlify.app/" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:06b6d4&height=140&section=header&text=ProPDF%20Tools&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="ProPDF Tools banner" />
-      </a>
       <h3 align="left">ProPDF Tools</h3>
       <p align="left">Local-first PDF suite to merge, split, compress, and convert files with a fast workflow.</p>
       <p align="left">
@@ -43,9 +40,6 @@ I build modern web and mobile products that are elegant on the surface and solid
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://rdxprescriptionmaker.netlify.app/" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7c3aed&height=140&section=header&text=Prescription%20Studio&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Prescription Studio banner" />
-      </a>
       <h3 align="left">Prescription Studio</h3>
       <p align="left">Smart prescription builder with print-ready PDF output for clinics and healthcare workflows.</p>
       <p align="left">
@@ -53,9 +47,6 @@ I build modern web and mobile products that are elegant on the surface and solid
       </p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://human-library-rdx.vercel.app/" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,100:f43f5e&height=140&section=header&text=Human%20Library&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Human Library banner" />
-      </a>
       <h3 align="left">Human Library</h3>
       <p align="left">Anonymous storytelling platform with mood-based discovery and reflective social reading.</p>
       <p align="left">
