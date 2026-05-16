@@ -1,85 +1,115 @@
 <div align="center">
 
-# Sayak Biswas
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Sayak%20Biswas&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-### Full Stack Developer | React • React Native • Node.js | IIT Kharagpur
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2600&pause=800&color=7CF7D4&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;React+%E2%80%A2+React+Native+%E2%80%A2+Node.js;Building+beautiful%2C+production-grade+products;IIT+Kharagpur+Alumnus)](https://git.io/typing-svg)
 
-I build production-grade web and mobile products used by real teams in the construction and operations space.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sayak.site-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://sayak.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayak%20Biswas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayakbiswas13)
-[![Email](https://img.shields.io/badge/Email-sayakbiswas13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayakbiswas13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sayak.site-0f172a?style=for-the-badge&logo=googlechrome&logoColor=7CF7D4&labelColor=020617)](https://sayak.site)
+[![Email](https://img.shields.io/badge/Email-sayakbiswas13%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=ff6b6b&labelColor=020617)](mailto:sayakbiswas13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayak%20Biswas-0f172a?style=for-the-badge&logo=linkedin&logoColor=60a5fa&labelColor=020617)](https://linkedin.com/in/sayakbiswas13)
+[![Twitter](https://img.shields.io/badge/Twitter-@rdx__141-0f172a?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=020617)](https://twitter.com/rdx_141)
+[![Instagram](https://img.shields.io/badge/Instagram-@_drunken.master_-0f172a?style=for-the-badge&logo=instagram&logoColor=f472b6&labelColor=020617)](https://instagram.com/_drunken.master_)
 
 </div>
 
 ---
 
-## About Me
+## 01 | ABOUT
 
-- 2+ years of industry experience shipping software at Staart Buildtech
-- Built and delivered 6+ production apps across web and mobile
-- 10K+ app downloads across published products
-- IIT Kharagpur alumnus (B.Arch, 2018-2023)
-- Based in Kolkata, India and actively open to impactful engineering roles
+I build modern web and mobile products that are elegant on the surface and solid in production.
 
-## Current Role
+- 2+ years building full stack products at Staart Buildtech
+- 6+ shipped production apps
+- 10K+ app downloads
+- B.Arch, IIT Kharagpur (2018 - 2023)
+- Based in Kolkata, India
 
-**Software Developer, Staart Buildtech** (June 2024 - Present)
-
-- Building finance, project, inventory, and on-site operation platforms
-- Working across React, React Native, Node.js, MongoDB/PostgreSQL, Firebase, and AWS
-- Delivering production features from architecture to deployment
-
-**Full Stack Developer Intern, Staart Buildtech** (January 2023 - May 2024)
-
-- Built and maintained multiple products for construction and field teams
-
-## Featured Projects
-
-### Staart Ecosystem (Production)
-
-- [Staart.Build](https://staart.build/) - Finance management platform for construction firms
-- [Staart Works (Play Store)](https://play.google.com/store/apps/details?id=com.staartworks) - Spend and expense management for SMBs
-- [Staart BuildEase (Play Store)](https://play.google.com/store/apps/details?id=com.staartclient) - Construction project management
-- [Staart OnSite (Play Store)](https://play.google.com/store/apps/details?id=com.staartonsite.android) - On-site progress and quality tracking
-- [Staart Inventory (Play Store)](https://play.google.com/store/apps/details?id=com.inventory0) - Material and equipment inventory management
-- [Staart SiteHub (Play Store)](https://play.google.com/store/apps/details?id=com.siteengineer) - Team and document coordination hub
-
-### Independent Builds
-
-- [ProPDF Tools](https://pdfmaker141.netlify.app/) - Merge, split, compress, and convert PDFs with local-first processing
-- [Prescription Studio](https://rdxprescriptionmaker.netlify.app/) - Print-ready prescription PDF generation with smart autofill
-- [Human Library](https://human-library-rdx.vercel.app/) - Anonymous storytelling platform with mood-based discovery
-
-## Tech Stack
-
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Three.js  
-**Mobile:** React Native, Flutter  
-**Backend:** Node.js, Firebase  
-**Databases:** MongoDB, PostgreSQL  
-**Cloud & Tools:** AWS, Git, Figma, Postman
-
-## GitHub Snapshot
+## 02 | FEATURED INDEPENDENT BUILDS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayakbiswas13&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayakbiswas13&layout=compact&theme=transparent&hide_border=true)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://pdfmaker141.netlify.app/" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:06b6d4&height=140&section=header&text=ProPDF%20Tools&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="ProPDF Tools banner" />
+      </a>
+      <h3 align="left">ProPDF Tools</h3>
+      <p align="left">Local-first PDF suite to merge, split, compress, and convert files with a fast workflow.</p>
+      <p align="left">
+        <a href="https://pdfmaker141.netlify.app/" target="_blank"><strong>View Live Product</strong></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://rdxprescriptionmaker.netlify.app/" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7c3aed&height=140&section=header&text=Prescription%20Studio&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Prescription Studio banner" />
+      </a>
+      <h3 align="left">Prescription Studio</h3>
+      <p align="left">Smart prescription builder with print-ready PDF output for clinics and healthcare workflows.</p>
+      <p align="left">
+        <a href="https://rdxprescriptionmaker.netlify.app/" target="_blank"><strong>View Live Product</strong></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://human-library-rdx.vercel.app/" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,100:f43f5e&height=140&section=header&text=Human%20Library&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Human Library banner" />
+      </a>
+      <h3 align="left">Human Library</h3>
+      <p align="left">Anonymous storytelling platform with mood-based discovery and reflective social reading.</p>
+      <p align="left">
+        <a href="https://human-library-rdx.vercel.app/" target="_blank"><strong>View Live Product</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-## What I Care About
+## 03 | PRODUCTION WORK (STAART)
 
-- Building software that solves real business problems
-- Clean architecture, maintainable code, and practical product velocity
-- Strong UX thinking backed by engineering discipline
+- [**Staart.Build**](https://staart.build/) - Finance management for construction teams
+- [**Staart Works**](https://play.google.com/store/apps/details?id=com.staartworks) - Expense and spend management
+- [**Staart BuildEase**](https://play.google.com/store/apps/details?id=com.staartclient) - Project workflow and execution
+- [**Staart OnSite**](https://play.google.com/store/apps/details?id=com.staartonsite.android) - On-site progress and quality tracking
+- [**Staart Inventory**](https://play.google.com/store/apps/details?id=com.inventory0) - Inventory and material operations
+- [**Staart SiteHub**](https://play.google.com/store/apps/details?id=com.siteengineer) - Team coordination and document sharing
 
-## Let's Connect
+## 04 | TECH STACK
 
-- Portfolio: [sayak.site](https://sayak.site)
-- LinkedIn: [linkedin.com/in/sayakbiswas13](https://linkedin.com/in/sayakbiswas13)
-- Email: [sayakbiswas13@gmail.com](mailto:sayakbiswas13@gmail.com)
+<div align="center">
+
+### Frontend Engineering
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=38bdf8)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwind-css&logoColor=22d3ee)
+![Three.js](https://img.shields.io/badge/Three.js-111827?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
+
+### Backend and Data
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=86efac)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=4ade80)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=93c5fd)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=facc15)
+
+### Mobile, Cloud, and Tooling
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=38bdf8)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=fbbf24)
+![Google Cloud](https://img.shields.io/badge/GCP-111827?style=for-the-badge&logo=google-cloud&logoColor=60a5fa)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=f472b6)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=fb923c)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f97316)
+
+</div>
 
 ---
 
-> If you're hiring for full stack or mobile roles, I'd be glad to connect.
+<div align="center">
+
+### "Useful products should also feel beautiful."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30" width="100%"/>
+
+</div>
