@@ -24,7 +24,7 @@ I build modern web and mobile products that are elegant on the surface and solid
 - 6+ shipped production apps
 - 10K+ app downloads
 - B.Arch, IIT Kharagpur (2018 - 2023)
-- Based in Kolkata, India
+- Based in Hyderabad, India
 
 ## 02 | FEATURED INDEPENDENT BUILDS
 
