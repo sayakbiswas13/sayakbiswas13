@@ -144,7 +144,7 @@ Features mood-based discovery and a distraction-free environment for reflective 
 
 <div align="center">
 
-<a href="https://sayak.site">
+<a href="https://sayak.is-a.dev/">
 <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-171717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio"/>
 </a>
 
